@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\1460909\\Documents\\projects\\Desktop-RPG\\RPG\\RPG.csproj",
+      "projectUniqueName": "D:\\Users\\1460909\\Documents\\projects\\Desktop-RPG\\RPG.csproj",
       "projectName": "RPG",
-      "projectPath": "D:\\Users\\1460909\\Documents\\projects\\Desktop-RPG\\RPG\\RPG.csproj",
+      "projectPath": "D:\\Users\\1460909\\Documents\\projects\\Desktop-RPG\\RPG.csproj",
       "packagesPath": "D:\\Users\\1460909\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\1460909\\Documents\\projects\\Desktop-RPG\\RPG\\obj\\",
+      "outputPath": "D:\\Users\\1460909\\Documents\\projects\\Desktop-RPG\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "D:\\Users\\1460909\\AppData\\Roaming\\NuGet\\NuGet.Config",
