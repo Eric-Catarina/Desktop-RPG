@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\1460909\\Documents\\projects\\Desktop-RPG\\RPG.csproj": {}
+    "/home/eric/projects/Desktop-RPG/RPG.csproj": {}
   },
   "projects": {
-    "D:\\Users\\1460909\\Documents\\projects\\Desktop-RPG\\RPG.csproj": {
+    "/home/eric/projects/Desktop-RPG/RPG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\1460909\\Documents\\projects\\Desktop-RPG\\RPG.csproj",
+        "projectUniqueName": "/home/eric/projects/Desktop-RPG/RPG.csproj",
         "projectName": "RPG",
-        "projectPath": "D:\\Users\\1460909\\Documents\\projects\\Desktop-RPG\\RPG.csproj",
-        "packagesPath": "D:\\Users\\1460909\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\1460909\\Documents\\projects\\Desktop-RPG\\obj\\",
+        "projectPath": "/home/eric/projects/Desktop-RPG/RPG.csproj",
+        "packagesPath": "/home/eric/.nuget/packages/",
+        "outputPath": "/home/eric/projects/Desktop-RPG/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "D:\\Users\\1460909\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/eric/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,12 +48,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.24, 6.0.24]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
         }
       }
     }

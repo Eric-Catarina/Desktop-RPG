@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GpMfODp6ZH2OzOMsApBn8T0jWGaVweobfPDeNzVS+P/9fwM8BVCiu678Vn/n3GV/Pnbuki3y+Q5tf1PDpcl4TA==",
+  "dgSpecHash": "RYrscPdeb7zN6cR1EXQ4vk1SeRgYGRbjP45k6VtDeVx8tQGjkd36y7RymLVoBFcA6vnu4ApHiVn2MBbPzK9Cog==",
   "success": true,
-  "projectFilePath": "D:\\Users\\1460909\\Documents\\projects\\Desktop-RPG\\RPG.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/eric/projects/Desktop-RPG/RPG.csproj",
+  "expectedPackageFiles": [
+    "/home/eric/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.24/microsoft.netcore.app.host.linux-x64.6.0.24.nupkg.sha512"
+  ],
   "logs": []
 }
